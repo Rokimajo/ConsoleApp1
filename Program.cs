@@ -8,6 +8,7 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
+            const int test = 1;
             const int spring = 321;
             const int summer = 621;
             const int autumn = 921;
